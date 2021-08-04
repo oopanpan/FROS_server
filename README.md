@@ -4,8 +4,8 @@ For Real Ominous Souls is an e-commerce shop for dark clothing and outfits. Our 
 
 ## Technologies
 
-- React | Bootstrap | Semantic UI [GitHub link here](https://github.com/ekhu94/fros-frontend/)
-- Ruby on Rails | PostgreSQL
+-   React | Bootstrap | Semantic UI [GitHub link here](https://github.com/oopanpan/FROS_client)
+-   Ruby on Rails | PostgreSQL
 
 ## Home Page
 
@@ -24,15 +24,17 @@ For Real Ominous Souls is an e-commerce shop for dark clothing and outfits. Our 
 The easiest way to access the FROS website is through our front end live demo link located in the GitHub description. Since the back end API is hosted on Heroku, there is no need to download and install `fros-backend-api`.
 
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Created By
 
-Kai Peng Li - https://github.com/oopanpan
+Pan Li - https://github.com/oopanpan
 
 Erik Huang - https://github.com/ekhu94
